@@ -327,5 +327,9 @@
     .section2-box-container{
       padding-left: 2em;
     }
+    .food-box p{
+      font-weight: 400;
+    }
+
   }
   
